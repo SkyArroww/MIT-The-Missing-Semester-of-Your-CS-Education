@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 polo(){
     cd "$(cat "$HOME/marco_history.log")"
 }
